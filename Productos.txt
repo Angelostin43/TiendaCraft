@@ -1,0 +1,4 @@
+3001;Pelota;80.0
+3002;Mouse Logitech G203;120.0
+3003;Mouse Pad;20.0
+3004;Pollo frito;20.0

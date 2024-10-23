@@ -1,0 +1,3 @@
+1001;Mateo;Lopez;956489125;4125687
+1002;Claudio;Sarmiento;987598412;45158
+1003;Angelo;Algo;4444;231
